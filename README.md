@@ -48,7 +48,7 @@ TalentFlow is a front-end React application that simulates a hiring management p
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/talentflow.git
+git clone https://github.com/az7dev/ENTNT_Assessment
 cd talentflow
 
 # Install dependencies
@@ -92,4 +92,5 @@ src/
 - Export/import local data
 - Error boundary and retry logic
 ## Author: Az7dev
+#  📭 [Reach out](#hi-there-AlsalaAhmed-here) for help
 License: MIT
