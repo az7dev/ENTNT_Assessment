@@ -1,6 +1,6 @@
 # TalentFlow – A Mini Hiring Platform (Front-End Only)
 # ALSALA AHMED-CE22B038
-
+# Deployed on AWS EC2 - https://3.129.151.141/
 ## Overview
 TalentFlow is a front-end React application that simulates a hiring management platform for HR teams. It enables managing **Jobs**, **Candidates**, and **Assessments** without a backend. All data is stored locally using **IndexedDB** via **Dexie** or **localForage**, and API calls are simulated using **MirageJS** or **MSW**.
 
